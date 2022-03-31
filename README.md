@@ -1,4 +1,4 @@
-# Ectopic adrenal tissue in pratubal adnexal region
+# Ectopic adrenal tissue in paratubal adnexal region
 
 
 
@@ -19,7 +19,7 @@ source("./R/language.R")
 
 
 ```{asis, echo = (language == "EN")}
-# Ectopic adrenal tissue in pratubal adnexal region
+# Ectopic adrenal tissue in paratubal adnexal region
 ```
 
 
@@ -43,7 +43,7 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**Ectopic adrenal tissue in pratubal adnexal region**
+**Ectopic adrenal tissue in paratubal adnexal region**
 
 
 [https://pathologyatlas.github.io/ectopic-adrenal/HE.html](https://pathologyatlas.github.io/ectopic-adrenal/HE.html)

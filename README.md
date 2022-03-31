@@ -1,30 +1,10 @@
-# template
-
-
-
-**template for pathology atlas repositories**
+# Ectopic adrenal tissue in pratubal adnexal region
 
 
 
 
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
 
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language ectopic-adrenal, echo=FALSE, include=TRUE}
 source("./R/language.R")
 ```
 
@@ -32,14 +12,14 @@ source("./R/language.R")
 
 
 ```{asis, echo = (language == "TR")}
-# TemplateTR
+# Paratubal adneksiyal bölgede ektopik adrenal dokusu
 ```
 
 
 
 
 ```{asis, echo = (language == "EN")}
-# TemplateEN
+# Ectopic adrenal tissue in pratubal adnexal region
 ```
 
 
@@ -47,14 +27,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Paratubal adneksiyal bölgede ektopik adrenal dokusu**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/ectopic-adrenal/HE.html](https://pathologyatlas.github.io/ectopic-adrenal/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/ectopic-adrenal/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -63,14 +43,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Ectopic adrenal tissue in pratubal adnexal region**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/ectopic-adrenal/HE.html](https://pathologyatlas.github.io/ectopic-adrenal/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/ectopic-adrenal/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 

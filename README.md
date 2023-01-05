@@ -30,11 +30,11 @@ source("./R/language.R")
 **Paratubal adneksiyal bölgede ektopik adrenal dokusu**
 
 
-[https://pathologyatlas.github.io/ectopic-adrenal/HE.html](https://pathologyatlas.github.io/ectopic-adrenal/HE.html)
+[https://images.patolojiatlasi.com/ectopic-adrenal/HE.html](https://images.patolojiatlasi.com/ectopic-adrenal/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/ectopic-adrenal/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/ectopic-adrenal/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -46,11 +46,11 @@ Mikroskopik görüntüleri inceleyin:
 **Ectopic adrenal tissue in paratubal adnexal region**
 
 
-[https://pathologyatlas.github.io/ectopic-adrenal/HE.html](https://pathologyatlas.github.io/ectopic-adrenal/HE.html)
+[https://images.patolojiatlasi.com/ectopic-adrenal/HE.html](https://images.patolojiatlasi.com/ectopic-adrenal/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/ectopic-adrenal/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/ectopic-adrenal/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
